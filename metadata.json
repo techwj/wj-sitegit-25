@@ -1,0 +1,59 @@
+{
+  "siteId": "homemade-sauce-recipes",
+  "generatedAt": "2026-06-02T15:35:13.538672",
+  "categories": [
+    "beginner-homemade-sauce-recipes",
+    "advanced-homemade-sauce-recipes",
+    "tips-homemade-sauce-recipes",
+    "history-homemade-sauce-recipes",
+    "trending-homemade-sauce-recipes",
+    "tutorials-homemade-sauce-recipes"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-homemade-sauce-recipes",
+      "category_name": "Beginner Homemade Sauce Recipes"
+    },
+    {
+      "category_slug": "advanced-homemade-sauce-recipes",
+      "category_name": "Advanced Homemade Sauce Recipes"
+    },
+    {
+      "category_slug": "tips-homemade-sauce-recipes",
+      "category_name": "Homemade Sauce Recipes Tips"
+    },
+    {
+      "category_slug": "history-homemade-sauce-recipes",
+      "category_name": "Homemade Sauce Recipes History"
+    },
+    {
+      "category_slug": "trending-homemade-sauce-recipes",
+      "category_name": "Trending Homemade Sauce Recipes"
+    },
+    {
+      "category_slug": "tutorials-homemade-sauce-recipes",
+      "category_name": "Homemade Sauce Recipes Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "homemade-sauce-recipes",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Homemade Sauce Recipes Central",
+    "articles_per_row": 3
+  }
+}
